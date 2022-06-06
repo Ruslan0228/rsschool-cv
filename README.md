@@ -1,2 +1,2 @@
-1. [Markdown & Git](https://github.com/Ruslan0228/rsschool-cv.git)
-2. [HTML, CSS & Git Basics](https://github.com/Ruslan0228/rsschool-cv.git) 
+1. [Markdown & Git](https://ruslan0228.github.io/rsschool-cv/cv)
+2. [HTML, CSS & Git Basics](https://ruslan0228.github.io/rsschool-cv/cv)
